@@ -12,14 +12,11 @@
     "applovinInterstitial": "",
 
 
-    "modeads": false,
-    "IMG1_URL": "https://c37.netlify.app/c37-4.png",
-    "TEXT1_URL": "https://play.google.com/store/apps/details?id=xxxxxxxxxxxxxxxxxxxxxx",
-    "IMG2_URL": "https://c37.netlify.app/c37-1.png",
-    "TEXT2_URL": "https://play.google.com/store/apps/details?id=xxxxxxxxxxxxxxxxxxxx",
-
-    "appsuspand": "false",
-    "appURLsuspand": "https://play.google.com/store/apps/details?id=XXXXXXXXXXX",
+    "modeads": true,
+    "IMG1_URL": "https://cross-pan.netlify.app/c60-5.jpg",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.BingoDingo.TocaBoca.TocaRoomDesign",
+    "IMG2_URL": "https://cross-pan.netlify.app/c69-6.jpg",
+    "TEXT2_URL": "https://play.google.com/store/apps/details?id=com.migatownbarby.tocaboca_dressup",
 
     "ratingActive": true
   }
