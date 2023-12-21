@@ -1,0 +1,21 @@
+{
+  "AdsController": {
+    "adNetwork": "unity",
+    "unityGameId": "99999",
+    "testMode": false,
+    "unityBanner": "Banner_Android",
+    "unityInterstitial": "Interstitial_Android",
+
+    "admobBanner": "",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "applovinBanner": "",
+    "applovinInterstitial": "",
+
+    "modeads": false,
+    "IMG1_URL": "https://cross-pan.netlify.app/c60-7.jpg",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.BingoDingo.TocaBoca.TocaHouseStylist",
+    "IMG2_URL": "https://cross-pan.netlify.app/c71-1-a.png",
+    "TEXT2_URL": "https://play.google.com/store/apps/details?id=tocabarbie.tocalife.tocaboca.barbie.dressup.makeup",
+    "ratingActive": true
+  }
+}
